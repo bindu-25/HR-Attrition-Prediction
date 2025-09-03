@@ -8,7 +8,7 @@ This project predicts employee attrition using machine learning models (Decision
 
 ## Dataset
 - **Source:** Internal HR dataset  
-- **Records:** 1,200+ employees  
+- **Records:** 15000 employees  
 - **Features:** satisfaction_level, last_evaluation, number_project, average_monthly_hours, tenure, work_accident, promotion_last_5years, department, salary  
 - **Target:** left (1 if employee left, 0 otherwise)
 
